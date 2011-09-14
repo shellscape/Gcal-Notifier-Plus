@@ -1,0 +1,900 @@
+﻿<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns='http://www.w3.org/2005/Atom' xmlns:openSearch='http://a9.com/-/spec/opensearchrss/1.0/' xmlns:gCal='http://schemas.google.com/gCal/2005' xmlns:gd='http://schemas.google.com/g/2005'>
+	<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full</id>
+	<updated>2011-08-21T16:55:15.000Z</updated>
+	<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+	<title type='text'>powella@gmail.com</title>
+	<subtitle type='text'>powella@gmail.com</subtitle>
+	<link rel='alternate' type='text/html' href='https://www.google.com/calendar/embed?src=powella@gmail.com'/>
+	<link rel='http://schemas.google.com/g/2005#feed' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full'/>
+	<link rel='http://schemas.google.com/g/2005#post' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full'/>
+	<link rel='http://schemas.google.com/g/2005#batch' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/batch'/>
+	<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full?max-results=25'/>
+	<link rel='next' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full?start-index=26&amp;max-results=25'/>
+	<author>
+		<name>Andrew Powell</name>
+		<email>powella@gmail.com</email>
+	</author>
+	<generator version='1.0' uri='http://www.google.com/calendar'>Google Calendar</generator>
+	<openSearch:totalResults>43</openSearch:totalResults>
+	<openSearch:startIndex>1</openSearch:startIndex>
+	<openSearch:itemsPerPage>25</openSearch:itemsPerPage>
+	<gCal:timezone value='America/New_York'/>
+	<gCal:timesCleaned value='2'/>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/ohau51hklr94c1suae18c7blfs</id>
+		<published>2011-08-21T16:55:15.000Z</published>
+		<updated>2011-08-21T16:55:15.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>RFL2 Draft</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=b2hhdTUxaGtscjk0YzFzdWFlMThjN2JsZnMgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/ohau51hklr94c1suae18c7blfs'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/ohau51hklr94c1suae18c7blfs/63449628915'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/ohau51hklr94c1suae18c7blfs/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-08-29T21:30:00.000-04:00' startTime='2011-08-29T20:30:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='ohau51hklr94c1suae18c7blfs@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/maq66bqicvufdho2vjdcte1qqk</id>
+		<published>2011-08-21T16:54:15.000Z</published>
+		<updated>2011-08-21T16:54:15.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>DTFFL Draft</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=bWFxNjZicWljdnVmZGhvMnZqZGN0ZTFxcWsgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/maq66bqicvufdho2vjdcte1qqk'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/maq66bqicvufdho2vjdcte1qqk/63449628855'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/maq66bqicvufdho2vjdcte1qqk/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString='41145 Russett Lane, Plymouth, MI 48170'/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-08-28T16:00:00.000-04:00' startTime='2011-08-28T15:00:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='maq66bqicvufdho2vjdcte1qqk@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/fq94nj92oo0di4gac8udnsid6c</id>
+		<published>2011-07-14T20:28:36.000Z</published>
+		<updated>2011-07-14T20:28:36.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Tubing in Mt. Pleasant</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=ZnE5NG5qOTJvbzBkaTRnYWM4dWRuc2lkNmMgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/fq94nj92oo0di4gac8udnsid6c'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/fq94nj92oo0di4gac8udnsid6c/63446358516'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/fq94nj92oo0di4gac8udnsid6c/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString='Mt. Pleasant'/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-07-22' startTime='2011-07-21'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.transparent'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='fq94nj92oo0di4gac8udnsid6c@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/e4qjjvho9sbfa00c0bignktn2c</id>
+		<published>2011-07-13T03:10:04.000Z</published>
+		<updated>2011-07-13T03:10:04.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Check on Boat</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=ZTRxamp2aG85c2JmYTAwYzBiaWdua3RuMmMgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/e4qjjvho9sbfa00c0bignktn2c'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/e4qjjvho9sbfa00c0bignktn2c/63446209804'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/e4qjjvho9sbfa00c0bignktn2c/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-07-18T12:30:00.000-04:00' startTime='2011-07-18T12:00:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='e4qjjvho9sbfa00c0bignktn2c@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/m408hu2mqk59ml8pkek6gnj1gc</id>
+		<published>2011-07-13T03:09:36.000Z</published>
+		<updated>2011-07-13T03:09:36.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Pay Doors of Pontiac Half Down</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=bTQwOGh1Mm1xazU5bWw4cGtlazZnbmoxZ2MgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/m408hu2mqk59ml8pkek6gnj1gc'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/m408hu2mqk59ml8pkek6gnj1gc/63446209776'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/m408hu2mqk59ml8pkek6gnj1gc/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-07-13T11:00:00.000-04:00' startTime='2011-07-13T10:00:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='m408hu2mqk59ml8pkek6gnj1gc@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/795moeg2jseer0f588h2q8mmjs</id>
+		<published>2011-07-13T03:09:21.000Z</published>
+		<updated>2011-07-13T03:09:21.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Concrete Estimate</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=Nzk1bW9lZzJqc2VlcjBmNTg4aDJxOG1tanMgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/795moeg2jseer0f588h2q8mmjs'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/795moeg2jseer0f588h2q8mmjs/63446209761'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/795moeg2jseer0f588h2q8mmjs/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-07-16T10:30:00.000-04:00' startTime='2011-07-16T09:30:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='795moeg2jseer0f588h2q8mmjs@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/t4rcs17aukkhdrgkfes4iihqoo</id>
+		<published>2011-07-11T12:34:19.000Z</published>
+		<updated>2011-07-11T12:34:19.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Check Outlot Grass</title>
+		<content type='text'>Kathy Brennan 248-681-6455</content>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=dDRyY3MxN2F1a2toZHJna2ZlczRpaWhxb29fMjAxMTA3MTBUMTYwMDAwWiBwb3dlbGxhQG0' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/t4rcs17aukkhdrgkfes4iihqoo'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/t4rcs17aukkhdrgkfes4iihqoo/63446070859'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:recurrence>
+			DTSTART;TZID=America/New_York:20110710T120000
+			DTEND;TZID=America/New_York:20110710T130000
+			RRULE:FREQ=WEEKLY;BYDAY=SU
+			BEGIN:VTIMEZONE
+			TZID:America/New_York
+			X-LIC-LOCATION:America/New_York
+			BEGIN:DAYLIGHT
+			TZOFFSETFROM:-0500
+			TZOFFSETTO:-0400
+			TZNAME:EDT
+			DTSTART:19700308T020000
+			RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+			END:DAYLIGHT
+			BEGIN:STANDARD
+			TZOFFSETFROM:-0400
+			TZOFFSETTO:-0500
+			TZNAME:EST
+			DTSTART:19701101T020000
+			RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+			END:STANDARD
+			END:VTIMEZONE
+		</gd:recurrence>
+		<gd:reminder method='email' minutes='10'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='t4rcs17aukkhdrgkfes4iihqoo@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/puu9ceif32nan9pu54rdlcb6ig</id>
+		<published>2011-06-03T20:21:13.000Z</published>
+		<updated>2011-06-03T20:21:13.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Golf Cart</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=cHV1OWNlaWYzMm5hbjlwdTU0cmRsY2I2aWcgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/puu9ceif32nan9pu54rdlcb6ig'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/puu9ceif32nan9pu54rdlcb6ig/63442815673'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/puu9ceif32nan9pu54rdlcb6ig/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-06-05T11:00:00.000-04:00' startTime='2011-06-05T10:00:00.000-04:00'>
+			<gd:reminder method='email' minutes='10'/>
+		</gd:when>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='puu9ceif32nan9pu54rdlcb6ig@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/70n8uh476rc1ejgqc29ger7mds</id>
+		<published>2011-06-01T20:26:55.000Z</published>
+		<updated>2011-06-01T20:26:55.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Beer Friday w/ Ottos</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=NzBuOHVoNDc2cmMxZWpncWMyOWdlcjdtZHMgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/70n8uh476rc1ejgqc29ger7mds'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/70n8uh476rc1ejgqc29ger7mds/63442643215'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/70n8uh476rc1ejgqc29ger7mds/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-06-11' startTime='2011-06-10'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.transparent'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='70n8uh476rc1ejgqc29ger7mds@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/rnl0d3htfpu0lvsdgr8v47ueok</id>
+		<published>2011-06-01T20:26:16.000Z</published>
+		<updated>2011-06-01T20:26:16.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Lake Day w/ Ottos</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=cm5sMGQzaHRmcHUwbHZzZGdyOHY0N3Vlb2sgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/rnl0d3htfpu0lvsdgr8v47ueok'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/rnl0d3htfpu0lvsdgr8v47ueok/63442643176'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/rnl0d3htfpu0lvsdgr8v47ueok/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-06-26' startTime='2011-06-25'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.transparent'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='rnl0d3htfpu0lvsdgr8v47ueok@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/s56068rmerifslm32amtikehn0</id>
+		<published>2011-05-20T18:57:13.000Z</published>
+		<updated>2011-05-20T18:57:16.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>PSS-002: Dev Meeting</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=czU2MDY4cm1lcmlmc2xtMzJhbXRpa2VobjAgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/s56068rmerifslm32amtikehn0'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/s56068rmerifslm32amtikehn0/63441601036'/>
+		<author>
+			<name>jhamn78@gmail.com</name>
+			<email>jhamn78@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/s56068rmerifslm32amtikehn0/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString='via Skype'/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='Andrew Powell'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.invited'/>
+		</gd:who>
+		<gd:who email='levi501dehaan@gmail.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='levi501dehaan@gmail.com'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.invited'/>
+		</gd:who>
+		<gd:who email='on77lj7e4ca24mtpjkok18jbho@group.calendar.google.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='Griswold'/>
+		<gd:when endTime='2011-05-23T19:00:00.000-04:00' startTime='2011-05-23T18:00:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='s56068rmerifslm32amtikehn0@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/ns0nqcmsq5kb3901jlb3ctivbg</id>
+		<published>2011-05-12T01:28:58.000Z</published>
+		<updated>2011-05-12T01:28:58.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Harbor Hills Meeting</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=bnMwbnFjbXNxNWtiMzkwMWpsYjNjdGl2YmcgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/ns0nqcmsq5kb3901jlb3ctivbg'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/ns0nqcmsq5kb3901jlb3ctivbg/63440846938'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/ns0nqcmsq5kb3901jlb3ctivbg/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.tentative'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='Andrew Powell'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.accepted'/>
+		</gd:who>
+		<gd:when endTime='2011-05-12T19:00:00.000-04:00' startTime='2011-05-12T18:00:00.000-04:00'>
+			<gd:reminder method='alert' minutes='15'/>
+		</gd:when>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='1'/>
+		<gCal:uid value='ns0nqcmsq5kb3901jlb3ctivbg@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/j6pv40g7avanvgn2v51p0vapqo</id>
+		<published>2011-05-04T15:46:38.000Z</published>
+		<updated>2011-05-04T15:46:38.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Canadian Tuxedo Party</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=ajZwdjQwZzdhdmFudmduMnY1MXAwdmFwcW8gcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/j6pv40g7avanvgn2v51p0vapqo'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/j6pv40g7avanvgn2v51p0vapqo/63440207198'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/j6pv40g7avanvgn2v51p0vapqo/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-06-05' startTime='2011-06-04'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.transparent'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='j6pv40g7avanvgn2v51p0vapqo@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/01lf69jt1b92cucns5p67lu5q8</id>
+		<published>2011-05-04T15:46:21.000Z</published>
+		<updated>2011-05-04T15:46:21.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Shaun's Birthday Deal</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=MDFsZjY5anQxYjkyY3VjbnM1cDY3bHU1cTggcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/01lf69jt1b92cucns5p67lu5q8'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/01lf69jt1b92cucns5p67lu5q8/63440207181'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/01lf69jt1b92cucns5p67lu5q8/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-06-12' startTime='2011-06-11'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.transparent'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='01lf69jt1b92cucns5p67lu5q8@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/kov1paclfqfcvapejbhuuquhlo</id>
+		<published>2011-02-23T21:41:04.000Z</published>
+		<updated>2011-03-27T06:14:38.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Re: appendTo Intro: Mike Hostetler</title>
+		<content type='text'>
+			https://www3.gotomeeting.com/join/896183646
+			Dial +1 (609) 318-0020
+			Access Code: 896-183-646
+		</content>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=a292MXBhY2xmcWZjdmFwZWpiaHV1cXVobG8gcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/kov1paclfqfcvapejbhuuquhlo'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/kov1paclfqfcvapejbhuuquhlo/63436889678'/>
+		<author>
+			<name>Mike Hostetler</name>
+			<email>mike@appendto.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/kov1paclfqfcvapejbhuuquhlo/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString='Gotomeeting'/>
+		<gd:who email='mike@appendto.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='Mike Hostetler'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.accepted'/>
+		</gd:who>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='Andrew Powell'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.invited'/>
+		</gd:who>
+		<gd:who email='kwilas@stardock.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='kwilas@stardock.com'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.accepted'/>
+		</gd:who>
+		<gd:who email='apowell@appendto.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='Andrew Powell'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.accepted'/>
+		</gd:who>
+		<gd:when endTime='2011-03-01T15:30:00.000-05:00' startTime='2011-03-01T15:00:00.000-05:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='1'/>
+		<gCal:uid value='kov1paclfqfcvapejbhuuquhlo@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/po71di9bft4aqdimdsuekhkb3c</id>
+		<published>0001-12-31T00:00:00.000Z</published>
+		<updated>2011-03-22T02:31:37.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Lunch with T</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=cG83MWRpOWJmdDRhcWRpbWRzdWVraGtiM2MgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/po71di9bft4aqdimdsuekhkb3c'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/po71di9bft4aqdimdsuekhkb3c/63436444297'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/po71di9bft4aqdimdsuekhkb3c/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-03-22T13:30:00.000-04:00' startTime='2011-03-22T12:00:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='po71di9bft4aqdimdsuekhkb3c@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/2ma5cgd26ja0kc11sdo6mh7n2c</id>
+		<published>0001-12-31T00:00:00.000Z</published>
+		<updated>2011-03-22T02:31:12.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Taco night @ Vicky's</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=Mm1hNWNnZDI2amEwa2MxMXNkbzZtaDduMmMgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/2ma5cgd26ja0kc11sdo6mh7n2c'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/2ma5cgd26ja0kc11sdo6mh7n2c/63436444272'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/2ma5cgd26ja0kc11sdo6mh7n2c/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2011-03-23T20:00:00.000-04:00' startTime='2011-03-23T17:00:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='2ma5cgd26ja0kc11sdo6mh7n2c@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6oo44gpj6gs32ca36gsk6ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g89136hhl64sjeha16h244e1k6d13gh218d1jegq66d2kagpm6l10</id>
+		<published>2010-08-31T18:55:49.000Z</published>
+		<updated>2010-09-01T14:09:24.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>FW: PGC Implementation discussion</title>
+		<content type='text'>
+			When: Wednesday, September 01, 2010 3:00 PM-3:30 PM (GMT-05:00) Eastern Time (US &amp; Canada).
+			Where: Phone number below
+
+			*~*~*~*~*~*~*~*~*~*
+
+
+
+			_____________________________________________
+			From:   Justin Lankes
+			Sent:   Tuesday, August 31, 2010 2:55 PM
+			To:     Jay Lark; Ryan O'Rear
+			Subject:        PGC Implementation discussion
+			When:   Wednesday, September 01, 2010 3:00 PM-3:30 PM (GMT-05:00) Eastern Time (US &amp; Canada).
+			Where:  Phone number below
+
+			Call-in toll number (US/Canada): +1-408-600-3600
+
+			Access code:804 855 009
+
+		</content>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2b280NGdwajZnczMyY2EzNmdzazZnaGc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnODkxMzZoaGw2NHNqZWhhMTZoMjQ0ZTFrNmQxM2doMjE4ZDFqZWdxNjZkMmthZ3BtNmwxMCBwb3dlbGxhQG0' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6oo44gpj6gs32ca36gsk6ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g89136hhl64sjeha16h244e1k6d13gh218d1jegq66d2kagpm6l10'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6oo44gpj6gs32ca36gsk6ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g89136hhl64sjeha16h244e1k6d13gh218d1jegq66d2kagpm6l10/63419033364'/>
+		<author>
+			<name>jlankes@scoutcms.com</name>
+			<email>jlankes@scoutcms.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6oo44gpj6gs32ca36gsk6ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g89136hhl64sjeha16h244e1k6d13gh218d1jegq66d2kagpm6l10/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString='Phone number below'/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='Andrew Powell'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.declined'/>
+		</gd:who>
+		<gd:who email='jlankes@scoutcms.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='jlankes@scoutcms.com'/>
+		<gd:when endTime='2010-09-01T15:30:00.000-04:00' startTime='2010-09-01T15:00:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='false'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:privateCopy value='true'/>
+		<gCal:sequence value='1'/>
+		<gCal:uid value='040000008200E00074C5B7101A82E0080000000060BC34811C49CB01000000000000000010000000BB3F5197EA4DB843B8DACC7CF3EEC65B'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/92tubl7erslhl7sc3fj24glrbc</id>
+		<published>2010-06-21T16:21:33.000Z</published>
+		<updated>2010-08-03T05:29:56.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Softball</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=OTJ0dWJsN2Vyc2xobDdzYzNmajI0Z2xyYmMgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/92tubl7erslhl7sc3fj24glrbc'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/92tubl7erslhl7sc3fj24glrbc/63416496596'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/92tubl7erslhl7sc3fj24glrbc/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2010-07-11T20:00:00.000-04:00' startTime='2010-07-11T18:00:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='92tubl7erslhl7sc3fj24glrbc@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/1pn0pbkqlkmc8a52ch318ho7r4</id>
+		<published>2010-07-24T13:36:36.000Z</published>
+		<updated>2010-08-03T05:29:56.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Softball</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=MXBuMHBia3Fsa21jOGE1MmNoMzE4aG83cjQgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/1pn0pbkqlkmc8a52ch318ho7r4'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/1pn0pbkqlkmc8a52ch318ho7r4/63416496596'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/1pn0pbkqlkmc8a52ch318ho7r4/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2010-07-25T19:00:00.000-04:00' startTime='2010-07-25T17:00:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='1pn0pbkqlkmc8a52ch318ho7r4@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/o3vfgtr359o0e7ffg73vvn8g4g</id>
+		<published>2010-06-29T15:49:53.000Z</published>
+		<updated>2010-08-03T05:29:56.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>James March Wedding</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=bzN2Zmd0cjM1OW8wZTdmZmc3M3Z2bjhnNGcgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/o3vfgtr359o0e7ffg73vvn8g4g'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/o3vfgtr359o0e7ffg73vvn8g4g/63416496596'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/o3vfgtr359o0e7ffg73vvn8g4g/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2010-08-01' startTime='2010-07-31'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.transparent'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='o3vfgtr359o0e7ffg73vvn8g4g@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/quvqvs7n4o5ng4uh94mhqrk0jk</id>
+		<published>2010-06-19T17:52:17.000Z</published>
+		<updated>2010-08-03T05:29:56.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>311 @ DTE</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=cXV2cXZzN240bzVuZzR1aDk0bWhxcmswamsgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/quvqvs7n4o5ng4uh94mhqrk0jk'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/quvqvs7n4o5ng4uh94mhqrk0jk/63416496596'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/quvqvs7n4o5ng4uh94mhqrk0jk/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2010-07-07T23:00:00.000-04:00' startTime='2010-07-07T18:00:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='quvqvs7n4o5ng4uh94mhqrk0jk@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/vnrld8c9uv13cc2dart0udnlrs</id>
+		<published>2010-06-21T16:21:14.000Z</published>
+		<updated>2010-07-14T05:44:28.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Softball</title>
+		<content type='text'/>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=dm5ybGQ4Yzl1djEzY2MyZGFydDB1ZG5scnMgcG93ZWxsYUBt' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/vnrld8c9uv13cc2dart0udnlrs'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/vnrld8c9uv13cc2dart0udnlrs/63414769468'/>
+		<author>
+			<name>powella@gmail.com</name>
+			<email>powella@gmail.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/vnrld8c9uv13cc2dart0udnlrs/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString=''/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='powella@gmail.com'/>
+		<gd:when endTime='2010-06-27T20:30:00.000-04:00' startTime='2010-06-27T18:30:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='true'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='vnrld8c9uv13cc2dart0udnlrs@google.com'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6co3ih1j6h0k4hhk64s46ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6csjgchh890jedq670o46e9k74s32ha470q3agpi89238dpo652g</id>
+		<published>2010-07-01T12:27:24.000Z</published>
+		<updated>2010-07-01T13:05:34.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>Updated: Conference Call with Ryan</title>
+		<content type='text'>
+			Time changed to 10:00 EST
+
+			Conference code: 4870290
+
+
+			Toll-free dial-in number (US and Canada): (866) 338-1552
+
+
+
+			Get started:
+			1. Give your participants the date and time of the call, your dial-in number and your conference code.
+			2. At the specified time, dial your Ready Call dial-in number, then enter your conference code, followed by #.
+			3. When prompted, press *, then enter your leader PIN, followed by #.
+			4. Your participants join the conference by dialing your number and entering the conference code.
+
+
+		</content>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2Y28zaWgxajZoMGs0aGhrNjRzNDZnaGc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnNmNzamdjaGg4OTBqZWRxNjcwbzQ2ZTlrNzRzMzJoYTQ3MHEzYWdwaTg5MjM4ZHBvNjUyZyBwb3dlbGxhQG0' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6co3ih1j6h0k4hhk64s46ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6csjgchh890jedq670o46e9k74s32ha470q3agpi89238dpo652g'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6co3ih1j6h0k4hhk64s46ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6csjgchh890jedq670o46e9k74s32ha470q3agpi89238dpo652g/63413672734'/>
+		<author>
+			<name>lhoffman@therobisongroup.com</name>
+			<email>lhoffman@therobisongroup.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6co3ih1j6h0k4hhk64s46ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g6csjgchh890jedq670o46e9k74s32ha470q3agpi89238dpo652g/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString='Phone'/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='Andrew Powell'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.accepted'/>
+		</gd:who>
+		<gd:who email='jlankes@therobisongroup.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='jlankes@therobisongroup.com'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.invited'/>
+		</gd:who>
+		<gd:who email='jlark@vectorform.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='jlark@vectorform.com'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.invited'/>
+		</gd:who>
+		<gd:who email='ryan@therobisongroup.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='ryan@therobisongroup.com'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.invited'/>
+		</gd:who>
+		<gd:who email='lhoffman@therobisongroup.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='lhoffman@therobisongroup.com'/>
+		<gd:when endTime='2010-07-01T10:30:00.000-04:00' startTime='2010-07-01T10:00:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='false'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:privateCopy value='true'/>
+		<gCal:sequence value='1'/>
+		<gCal:uid value='040000008200E00074C5B7101A82E00800000000309D34ABF418CB0100000000000000001000000039821BA77F80C94981ED845C2BD4781E'/>
+	</entry>
+	<entry>
+		<id>http://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6so3chhg6gpkaghp64r46ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g8orjih246kr42h9g6osk2dpk690jidph85248hhk64sj6e9m6spg</id>
+		<published>2010-06-28T15:58:37.000Z</published>
+		<updated>2010-06-28T16:27:14.000Z</updated>
+		<category scheme='http://schemas.google.com/g/2005#kind' term='http://schemas.google.com/g/2005#event'/>
+		<title type='text'>FW: Scout discussions</title>
+		<content type='text'>
+			When: Tuesday, June 29, 2010 9:30 AM-10:00 AM (GMT-05:00) Eastern Time (US &amp; Canada).
+			Where: 800-963-3556  Conf Code 1915283
+
+			*~*~*~*~*~*~*~*~*~*
+
+
+
+			_____________________________________________
+			From:   Perlmutter, Seth (LNG-HBE)
+			Sent:   Monday, June 28, 2010 11:59 AM
+			To:     Perlmutter, Seth (LNG-HBE); Justin Lankes; Dye, Travis (CPT-ATL)
+			Subject:        Scout discussions
+			When:   Tuesday, June 29, 2010 9:30 AM-10:00 AM (GMT-05:00) Eastern Time (US &amp; Canada).
+			Where:  800-963-3556  Conf Code 1915283
+
+			800-963-3556  Conf Code 1915283
+
+		</content>
+		<link rel='alternate' type='text/html' href='https://www.google.com/calendar/event?eid=XzYwcTMwYzFnNjBvMzBlMWk2MG80YWMxZzYwcmo4Z3BsODhyajJjMWg4NHMzNGg5ZzYwczMwYzFnNjBvMzBjMWc2c28zY2hoZzZncGthZ2hwNjRyNDZnaGc2NG8zMGMxZzYwbzMwYzFnNjBvMzBjMWc2MG8zMmMxZzYwbzMwYzFnOG9yamloMjQ2a3I0Mmg5ZzZvc2syZHBrNjkwamlkcGg4NTI0OGhoazY0c2o2ZTltNnNwZyBwb3dlbGxhQG0' title='alternate'/>
+		<link rel='self' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6so3chhg6gpkaghp64r46ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g8orjih246kr42h9g6osk2dpk690jidph85248hhk64sj6e9m6spg'/>
+		<link rel='edit' type='application/atom+xml' href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6so3chhg6gpkaghp64r46ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g8orjih246kr42h9g6osk2dpk690jidph85248hhk64sj6e9m6spg/63413425634'/>
+		<author>
+			<name>seth.perlmutter@lexisnexis.com</name>
+			<email>seth.perlmutter@lexisnexis.com</email>
+		</author>
+		<gd:comments>
+			<gd:feedLink href='https://www.google.com/calendar/feeds/powella%40gmail.com/private/full/_60q30c1g60o30e1i60o4ac1g60rj8gpl88rj2c1h84s34h9g60s30c1g60o30c1g6so3chhg6gpkaghp64r46ghg64o30c1g60o30c1g60o30c1g60o32c1g60o30c1g8orjih246kr42h9g6osk2dpk690jidph85248hhk64sj6e9m6spg/comments'/>
+		</gd:comments>
+		<gd:eventStatus value='http://schemas.google.com/g/2005#event.confirmed'/>
+		<gd:where valueString='800-963-3556  Conf Code 1915283'/>
+		<gd:who email='powella@gmail.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='Andrew Powell'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.accepted'/>
+		</gd:who>
+		<gd:who email='ryan@therobisongroup.com' rel='http://schemas.google.com/g/2005#event.attendee' valueString='ryan@therobisongroup.com'>
+			<gd:attendeeStatus value='http://schemas.google.com/g/2005#event.invited'/>
+		</gd:who>
+		<gd:who email='seth.perlmutter@lexisnexis.com' rel='http://schemas.google.com/g/2005#event.organizer' valueString='seth.perlmutter@lexisnexis.com'/>
+		<gd:when endTime='2010-06-29T10:00:00.000-04:00' startTime='2010-06-29T09:30:00.000-04:00'/>
+		<gd:transparency value='http://schemas.google.com/g/2005#event.opaque'/>
+		<gd:visibility value='http://schemas.google.com/g/2005#event.default'/>
+		<gCal:anyoneCanAddSelf value='false'/>
+		<gCal:guestsCanInviteOthers value='false'/>
+		<gCal:guestsCanModify value='false'/>
+		<gCal:guestsCanSeeGuests value='true'/>
+		<gCal:privateCopy value='true'/>
+		<gCal:sequence value='0'/>
+		<gCal:uid value='040000008200E00074C5B7101A82E00800000000706F043EB916CB01000000000000000010000000F79DD56AE069A742A971ADDF41939673'/>
+	</entry>
+</feed>
